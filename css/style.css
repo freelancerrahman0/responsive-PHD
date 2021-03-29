@@ -10,6 +10,7 @@
     9. classes css
     10. brand css
     11. footer css
+    12. back to top css
 */
 
 /*table of content ends*/
@@ -68,7 +69,7 @@ img {
     -o-transition: all linear .5s;
     -ms-transition: all linear .5s;
     -moz-transition: all linear .5s;
-    
+
 }
 
 .navbar .navbar-brand {
@@ -162,17 +163,19 @@ img {
     padding-right: 0;
 }
 
-.stiky{
+.stiky {
     background: #000;
     margin-top: -10px;
     animation: smoth 1s linear;
-    
+
 }
-@keyframes smoth{
-    0%{
+
+@keyframes smoth {
+    0% {
         opacity: 0;
     }
-    100%{
+
+    100% {
         opacity: 1;
     }
 }
@@ -1090,7 +1093,8 @@ footer .footer-contact ul li .icon {
     left: 0;
     color: #e23e38;
 }
-footer .footer-contact a{
+
+footer .footer-contact a {
     margin-right: 10px;
 }
 

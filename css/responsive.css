@@ -1,3 +1,11 @@
+/*table
+    1. extra smaill device
+    2. smaill device
+    3. medium device
+    4. large device
+    5. extra large device
+*/
+
 /* extra small device */
 
 @media(max-width:575px) {
@@ -139,7 +147,7 @@
     .navbar-light .navbar-toggler span {
         color: #fff;
     }
-    
+
     .stiky {
         background: rgba(0, 0, 0, 0.5);
     }
@@ -197,7 +205,7 @@
     footer .footer-gallery ul li {
         margin-right: 16px;
     }
-    
+
     .btt {
         width: 35px;
         height: 35px;
@@ -235,7 +243,7 @@
     .navbar-light .navbar-toggler span {
         color: #fff;
     }
-    
+
     .stiky {
         background: rgba(0, 0, 0, 0.5);
     }
@@ -283,7 +291,7 @@
     #brand .brand-item img {
         width: 130px;
     }
-    
+
     .btt {
         width: 40px;
         height: 40px;
@@ -306,7 +314,7 @@
     .stiky {
         background: rgba(0, 0, 0, 0.5);
     }
-    
+
     #about .about-video {
         top: 64px;
     }
